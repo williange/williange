@@ -1,4 +1,4 @@
-<h1 align="left">Hello there <img src="./hello-there.gif" /></h1>
+<h1 align="left">Hello there <img src="./hello-there.gif" style="height: 2em;" /></h1>
 
 ###
 
